@@ -2,7 +2,7 @@
 
 **`Frontend web developer`**
 
-Hey everyone! 👋 I'm Adam, based in Budapest and immersed in the finance world at Erste Bank during the day. Here, I'm on a mission to infuse innovation into the daily challenges. Beyond the office walls, my enthusiasm shines in full-stack web development. I thrive on exploring new technologies, frameworks, and libraries, seeking not just thrills, but meaningful solutions. Let's embark on a coding adventure where every line of code shapes a unique narrative! 🚀💻
+Hey everyone! 👋 I'm Adam, based in Budapest and immersed in the finance world at Erste Bank during the day. Here, I'm on a mission to infuse innovation into the daily challenges. Beyond the office walls, my enthusiasm shines in full-stack web development. I thrive on exploring new technologies, frameworks, and libraries, seeking not just thrills, but meaningful solutions 🚀💻
 
 ### 🔧 Languages and Tools
 
@@ -25,4 +25,6 @@ Hey everyone! 👋 I'm Adam, based in Budapest and immersed in the finance world
 <br>
 <br>
 
+<!--
 ![adamkui's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamkui&show_icons=true&theme=synthwave)
+-->
