@@ -4,8 +4,6 @@
 
 Hey everyone! 👋 I'm Adam, based in Budapest and immersed in the finance world at Erste Bank during the day. Here, I'm on a mission to infuse innovation into the daily challenges. Beyond the office walls, my enthusiasm shines in full-stack web development. I thrive on exploring new technologies, frameworks, and libraries, seeking not just thrills, but meaningful solutions. Let's embark on a coding adventure where every line of code shapes a unique narrative! 🚀💻
 
-![adamkui's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamkui&show_icons=true&theme=synthwave)
-
 ### 🔧 Languages and Tools
 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -23,3 +21,8 @@ Hey everyone! 👋 I'm Adam, based in Budapest and immersed in the finance world
 <img align="left" alt="Moleculer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/moleculer/moleculer-original.svg" />
 <img align="left" alt="Nest.js" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+<br>
+<br>
+<br>
+
+![adamkui's GitHub stats](https://github-readme-stats.vercel.app/api?username=adamkui&show_icons=true&theme=synthwave)
